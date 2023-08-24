@@ -1,0 +1,1026 @@
+/* fonts */
+/* Inconsolata */
+@font-face {
+    font-family: 'inconsolataregular';
+    src: url('fonts/Inconsolata/Inconsolata-VariableFont_wdth,wght.ttf') format('woff2'),
+         url('fonts/Inconsolata/Inconsolata-VariableFont_wdth,wght.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+/* Montesserat Font */
+
+@font-face {
+    font-family: 'montserrat_thinitalic';
+    src: url('fonts/Montserrat/Montserrat-Italic-VariableFont_wght.ttf') format('woff2'),
+         url('fonts/Montserrat/Montserrat-Italic-VariableFont_wght.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'montserrat_thinregular';
+    src: url('fonts/Montserrat/Montserrat-VariableFont_wght.ttf') format('woff'),
+         url('fonts/Montserrat/Montserrat-VariableFont_wght.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* M_PLUS */
+
+@font-face {
+    font-family: 'm_plus_1p_thinregular';
+    src: url('fonts/M_PLUS_1p/MPLUS1p-Thin.ttf') format('woff2'),
+         url('fonts/M_PLUS_1p/MPLUS1p-Thin.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'm_plus_1pregular';
+    src: url('fonts/M_PLUS_1p/MPLUS1p-Regular.ttf') format('woff2'),
+         url('fonts/M_PLUS_1p/MPLUS1p-Regular.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'm_plus_1p_mediumregular';
+    src: url('fonts/M_PLUS_1p/MPLUS1p-Medium.ttf') format('woff2'),
+         url('fonts/M_PLUS_1p/MPLUS1p-Medium.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'm_plus_1p_lightregular';
+    src: url('fonts/M_PLUS_1p/MPLUS1p-Light.ttf') format('woff2'),
+         url('fonts/M_PLUS_1p/MPLUS1p-Light.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'm_plus_1p_extraboldregular';
+    src: url('fonts/M_PLUS_1p/MPLUS1p-ExtraBold.ttf') format('woff2'),
+         url('fonts/M_PLUS_1p/MPLUS1p-ExtraBold.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'm_plus_1p_blackregular';
+    src: url('fonts/M_PLUS_1p/MPLUS1p-Black.ttf') format('woff2'),
+         url('fonts/M_PLUS_1p/MPLUS1p-Black.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* prompt font */
+
+@font-face {
+    font-family: 'promptregular';
+    src: url('fonts/Prompt/Prompt-Regular.ttf') format('woff2'),
+         url('fonts/Prompt/Prompt-Regular.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'prompt_semiboldregular';
+    src: url('prompt-semibold-webfont.woff2') format('woff2'),
+         url('prompt-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'prompt_semibolditalic';
+    src: url('prompt-semibolditalic-webfont.woff2') format('woff2'),
+         url('prompt-semibolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'prompt_thinregular';
+    src: url('prompt-thin-webfont.woff2') format('woff2'),
+         url('prompt-thin-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'prompt_thinitalic';
+    src: url('prompt-thinitalic-webfont.woff2') format('woff2'),
+         url('prompt-thinitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'prompt_blackregular';
+    src: url('prompt-black-webfont.woff2') format('woff2'),
+         url('prompt-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'prompt_blackitalic';
+    src: url('prompt-blackitalic-webfont.woff2') format('woff2'),
+         url('prompt-blackitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'promptbold';
+    src: url('fonts/Prompt/Prompt-Bold.ttf') format('woff2'),
+         url('fonts/Prompt/Prompt-Bold.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'prompt_boldbold_italic';
+    src: url('prompt-bolditalic-webfont.woff2') format('woff2'),
+         url('prompt-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'prompt_extraboldregular';
+    src: url('prompt-extrabold-webfont.woff2') format('woff2'),
+         url('prompt-extrabold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'prompt_extrabolditalic';
+    src: url('prompt-extrabolditalic-webfont.woff2') format('woff2'),
+         url('prompt-extrabolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'prompt_extralightregular';
+    src: url('prompt-extralight-webfont.woff2') format('woff2'),
+         url('prompt-extralight-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'prompt_extralightitalic';
+    src: url('prompt-extralightitalic-webfont.woff2') format('woff2'),
+         url('prompt-extralightitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'promptitalic';
+    src: url('fonts/Prompt/Prompt-Italic.ttf') format('woff2'),
+         url('fonts/Prompt/Prompt-Italic.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'prompt_lightregular';
+    src: url('prompt-light-webfont.woff2') format('woff2'),
+         url('prompt-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'prompt_lightitalic';
+    src: url('prompt-lightitalic-webfont.woff2') format('woff2'),
+         url('prompt-lightitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'prompt_mediumregular';
+    src: url('prompt-medium-webfont.woff2') format('woff2'),
+         url('prompt-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* abril fatface */
+
+@font-face {
+    font-family: 'abril_fatfaceregular';
+    src: url('fonts/Abril_Fatface/AbrilFatface-Regular.ttf') format('woff2'),
+         url('fonts/Abril_Fatface/AbrilFatface-Regular.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* nanumm yeong */
+
+@font-face {
+    font-family: 'nanummyeongjobold';
+    src: url('fonts/Nanum_Myeongjo/NanumMyeongjo-Bold.ttf') format('woff2'),
+         url('fonts/Nanum_Myeongjo/NanumMyeongjo-Bold.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'nanummyeongjoextraboldregular';
+    src: url('nanummyeongjo-extrabold-webfont.woff2') format('woff2'),
+         url('nanummyeongjo-extrabold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'nanummyeongjoregular';
+    src: url('fonts/Nanum_Myeongjo/NanumMyeongjo-Regular.ttf') format('woff2'),
+         url('fonts/Nanum_Myeongjo/NanumMyeongjo-Regular.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* homepage */
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+
+.homepage {
+  background-color: #EDFAFF;
+  position: absolute;
+}
+
+/* navbar */
+
+nav {
+  width: 97vw;
+  position: fixed;
+  top: 0px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+nav img {
+  grid-column-start: 1;
+  padding: 10px;
+  width: 40px;
+}
+
+nav img:hover {
+  transform: rotate(20deg);
+}
+
+#links {
+  grid-column: 2;
+  justify-self: end;
+  padding: 20px;
+}
+
+nav a{
+  text-decoration: none;
+  margin-left: 40px;
+  color: #000;
+  font-family: 'montserrat_thinregular';
+}
+
+nav a:hover {
+  font-family: 'montserrat_thinitalic';
+}
+
+/* homepage */
+
+.yellow {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  margin-top: -200px;
+  
+}
+
+/* case studies */
+
+.case {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.caseimg {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: right;
+}
+
+.caseimg:hover {
+  opacity: 0.8;
+}
+
+.casetxt {
+  margin: 100px;
+}
+
+.casetxt h2 {
+  font-family: 'inconsolataregular';
+  font-size: 36px;
+}
+
+.casetxt h4 {
+  font-size: 20px;
+  font-family: 'm_plus_1pregular';
+}
+
+.bluebutton {
+  grid-column: 2;
+  grid-row: 2;
+  color: #082160;
+  text-decoration: none;
+  padding: 30px;
+  font-size: 30px;
+  font-family:'promptitalic';
+  border-radius: 10px;
+  border: 2px solid #082160;
+  background: rgba(255, 255, 255, 0.60);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.bluebutton:hover {
+  color: white;
+  text-decoration: none;
+  padding: 30px;
+  font-size: 30px;
+  font-family:'promptitalic';
+  border-radius: 10px;
+  background: #082160;
+}
+
+.caseright {
+  text-align: right;
+}
+
+/* Gallery Showcase */
+#extra {
+  color: #000;
+  text-align: center;
+  font-family: 'nanummyeongjoregular';
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+#gallery .casetxt {
+  margin-top: 0;
+}
+
+#gallery .caseimg {
+  margin-right: 50px;
+}
+
+/* footer */
+footer {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+h6 {
+  font-family: 'promptregular';
+  font-size: 15px;
+}
+
+/* about page */
+
+.about {
+  background: #FFFBEA;
+}
+
+h1 {
+  font-family: 'abril_fatfaceregular';
+  font-size: 96px;
+  text-align: center;
+}
+
+.about h1 {
+  color: #423D44;
+}
+
+.aboutsec {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+#aboutimg {
+  margin-left: 50px;
+}
+
+.aboutsec h3 {
+  color: #000;
+  font-family: 'inconsolataregular';
+  font-size: 20px;
+  line-height: 36px; /* 180% */
+  margin-right: 50px;
+}
+
+/* daily */
+.daily {
+  background-color: #EDFAFF;
+}
+
+.daily h1 {
+  color: #002F3E;
+}
+
+
+ .daily h3 {
+    color: #000;
+    text-align: center;
+    font-family: 'nanummyeongjoregular';
+    font-size: 20px;
+    margin: 20px 0 100px 0;
+  }
+
+.youtube {
+  text-align: center;
+  
+}
+
+.daily h1 {
+  margin: 100px 0 0 0;
+}
+
+.daily .bluebutton {
+  font-size: 20px;
+}
+
+#dailyimg {
+  width:100%;
+  
+}
+
+.up {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.right {
+  text-align: left;
+  justify-self: start;
+  margin-left: 30px;
+}
+
+.left {
+  text-align: right;
+  justify-self: end;
+  margin-right: 30px;
+}
+
+.linkfoot a{
+  text-decoration: none;
+  color: black;
+}
+
+/* remarkable */
+
+
+.remarkablenav #links a {
+  color: white;
+}
+
+.remarkablenav img {
+  filter: invert(100%);
+}
+
+.remarkable h1 {
+  color: #354A00;
+  margin-top: 0;
+}
+
+.casestudy h3 {
+  color: #000;
+  font-family: 'nanummyeongjoregular';
+  font-size: 30px;
+  line-height: 36px; /* 180% */
+  text-align: center;
+}
+
+.overview div h3 {
+  font-family: 'promptregular';
+  font-size: 20px;
+  margin-top: 50px;
+  text-align: left;
+  margin-left: 70px;
+}
+
+.overview div p {
+  color: #000;
+  font-family: 'm_plus_1pregular';
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 217.8%; /* 39.204px */
+  margin: 0 70px 50px 70px;
+}
+
+.access {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.pale {
+  background-color: #FFFAEA;
+}
+
+.pale h3, .mint h3, .sky h3{
+  color: black;
+  font-family: 'nanummyeongjoregular';
+  font-size: 30px;
+  line-height: 36px; /* 180% */
+  margin-top: 100px;
+  text-align: center;
+}
+
+.pale ul, .mint ul, .sky ul{
+  color: black;
+  font-family: 'inconsolataregular';
+  font-size: 16px;
+  line-height: 220%;
+  margin-left: 41%;
+}
+
+.green {
+  background: #1A2400;
+}
+
+.green h3, .chocolate h3, .black h3{
+  color: white;
+  font-family: 'nanummyeongjoregular';
+  font-size: 30px;
+  line-height: 36px; /* 180% */
+  margin-top: 100px;
+  text-align: center;
+}
+
+.green ul, .chocolate ul, .black ul{
+  color: white;
+  font-family: 'inconsolataregular';
+  font-size: 16px;
+  line-height: 220%;
+  margin-left: 40%;
+}
+
+.short h3 {
+  font-family: 'inconsolataregular';
+  font-size: 28px;
+  text-align: left;
+  margin-left: 200px;
+}
+
+.short p {
+  font-family: 'montserrat_thinregular';
+  font-size: 16px;
+  text-align: left;
+  margin-left: 200px;
+  line-height: 180%;
+  margin-right: 200px;
+}
+
+.green .short p, .chocolate .short p, .black .short p {
+  color: white;
+}
+
+.short img {
+  margin-left: 200px;
+  margin-right: 200px;
+  width: 70vw;
+}
+
+.short h4 {
+  margin-top: 50px;
+  font-family: 'nanummyeongjobold';
+  font-size: 18px;
+  text-align: center;
+}
+
+.green .short h4, .chocolate .short h4, .black .short h4 {
+  color: white;
+}
+
+.pale .short h4, .mint .short h4, .sky short h4 {
+  color: black;
+}
+
+.greenbutton {
+  grid-column: 2;
+  grid-row: 2;
+  color: #354A00;
+  text-decoration: none;
+  padding: 30px;
+  font-size: 20px;
+  font-family:'promptitalic';
+  border-radius: 10px;
+  border: 2px solid #354A00;
+  background: rgba(255, 255, 255, 0.60);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.greenbutton:hover {
+  color: white;
+  text-decoration: none;
+  padding: 30px;
+  font-size: 20px;
+  font-family:'promptitalic';
+  border-radius: 10px;
+  background: #354A00;
+}
+
+#greenlink1 {
+  text-align: center;
+}
+
+.before {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+#beforeimg {
+  grid-column: 1;
+}
+
+#beforeimg img {
+  width: 30vw;
+  margin: 20px 20px 20px 200px;
+}
+
+#points {
+  grid-column: 2;
+}
+
+.pale #points ul {
+  margin-left: 0;
+  margin-right: 200px;
+  font-size: 12px;
+}
+
+.pale #points img {
+  width: 10px;
+}
+
+.pale #points h2 {
+  font-family: 'inconsolataregular';
+  font-size: 15px;
+  margin-top: 50px;
+}
+
+video {
+  margin-left: 200px;
+  width: 70%;
+  margin-bottom: 150px;
+}
+
+/* questopia */
+
+.questopia h1 {
+  color: #423D44;
+}
+
+.mint {
+  background-color: #F0FFF2;
+}
+
+.chocolate {
+  background: #423D44;
+}
+
+.chocobutton {
+  grid-column: 2;
+  grid-row: 2;
+  color: #423D44;
+  text-decoration: none;
+  padding: 30px;
+  font-size: 20px;
+  font-family:'promptitalic';
+  border-radius: 10px;
+  border: 2px solid #423D44;
+  background: rgba(255, 255, 255, 0.60);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.chocobutton:hover {
+  color: white;
+  text-decoration: none;
+  padding: 30px;
+  font-size: 20px;
+  font-family:'promptitalic';
+  border-radius: 10px;
+  background: #423D44;
+}
+
+#chocolatelink1 {
+  text-align: center;
+}
+
+/* seatrack */
+
+.black {
+  background: black;
+  color: white;
+}
+
+.seatrack h1 {
+  color: #00FCC0;
+  letter-spacing: 3px;
+}
+.black h3 {
+  color: white;
+}
+
+.black div p {
+  color: white;
+}
+
+.sky {
+  background: #EDFAFF;
+  color: black;
+}
+
+.sky h3 {
+  color: black;
+}
+
+.sky .short p {
+  color: black;
+}
+
+
+.gridder {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.gridder div img {
+  margin: 0 0 0 200px;
+  width: 400px;
+  
+  
+}
+
+.gridder div ul {
+  margin-left: 0;
+}
+
+.whitebutton {
+  grid-column: 2;
+  grid-row: 2;
+  color: white;
+  text-decoration: none;
+  padding: 30px;
+  font-size: 20px;
+  font-family:'promptitalic';
+  border-radius: 10px;
+  border: 2px solid white;
+  background: rgba(255, 255, 255, 0.20);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.whitebutton:hover {
+  color: black;
+  text-decoration: none;
+  padding: 30px;
+  font-size: 20px;
+  font-family:'promptitalic';
+  border-radius: 10px;
+  background: white;
+}
+
+#whitebutton1 {
+  margin-left: 200px;
+}
+
+.darkbutton {
+  grid-column: 2;
+  grid-row: 2;
+  color: #082160;
+  text-decoration: none;
+  padding: 30px;
+  font-size: 20px;
+  font-family:'promptitalic';
+  border-radius: 10px;
+  border: 2px solid #082160;
+  background: rgba(255, 255, 255, 0.30);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.darkbutton:hover {
+  color: white;
+  text-decoration: none;
+  padding: 30px;
+  font-size: 20px;
+  font-family:'promptitalic';
+  border-radius: 10px;
+  background: #082160;
+}
+
+#darkbutton1 {
+  text-align: center;
+}
+
+.sky ul li {
+  color: black;
+}
+
+.sky .short h4 {
+  color: black;
+}
+
+.seatrack .linkfoot a {
+  color: white;
+}
+
+/* Contact Me */
+
+.contact {
+  box-shadow: 0 0 50px 50px #EDFAFF inset;
+}
+
+.contacta {
+  background: #FFEABB;
+  box-shadow: 0 0 50px 50px #FFFAEA inset;
+}
+
+.contactq {
+  background: #DCFFCD;
+  box-shadow: 0 0 50px 50px #F0FFF2 inset;
+}
+
+.contactq {
+  background: #DCFFCD;
+  box-shadow: 0 0 50px 50px #F0FFF2 inset;
+}
+
+.contacts {
+  background: #051640;
+  box-shadow: 0 0 50px 50px black inset;
+}
+
+.contactab {
+  background: #FFF2D4;
+  box-shadow: 0 0 50px 50px #FFFBEA inset;
+}
+
+.contactab h3 {
+  color: #000;
+  font-family: 'nanummyeongjoregular';
+  font-size: 30px;
+  line-height: 36px; /* 180% */
+  text-align: center;
+}
+
+.contacts #email img {
+  filter: invert(100%);
+}
+
+.contacts #phone img {
+  filter: invert(100%);
+}
+
+#email {
+  text-align: center;
+  font-family: 'm_plus_1pregular';
+}
+
+#phone {
+  text-align: center;
+  font-family: 'm_plus_1pregular';
+}
+
+#socials {
+  text-align: center;
+}
+
+#socials img {
+  margin: 10px;
+  width: 30px;
+}
+
+
+/* extra */
+
+.green .short h4 {
+  color: white;
+}
+
+.chocolate .short h4 {
+  color: white;
+}
